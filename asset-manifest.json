@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nftmintingdemo/static/css/main.a617e044.chunk.css",
+    "main.js": "/nftmintingdemo/static/js/main.bae42e00.chunk.js",
+    "main.js.map": "/nftmintingdemo/static/js/main.bae42e00.chunk.js.map",
+    "runtime-main.js": "/nftmintingdemo/static/js/runtime-main.fb1bc08a.js",
+    "runtime-main.js.map": "/nftmintingdemo/static/js/runtime-main.fb1bc08a.js.map",
+    "static/js/2.bb014d2b.chunk.js": "/nftmintingdemo/static/js/2.bb014d2b.chunk.js",
+    "static/js/2.bb014d2b.chunk.js.map": "/nftmintingdemo/static/js/2.bb014d2b.chunk.js.map",
+    "static/js/3.1b945151.chunk.js": "/nftmintingdemo/static/js/3.1b945151.chunk.js",
+    "static/js/3.1b945151.chunk.js.map": "/nftmintingdemo/static/js/3.1b945151.chunk.js.map",
+    "index.html": "/nftmintingdemo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/nftmintingdemo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bb014d2b.chunk.js.LICENSE.txt": "/nftmintingdemo/static/js/2.bb014d2b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nftmintingdemo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1bc08a.js",
+    "static/js/2.bb014d2b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bae42e00.chunk.js"
+  ]
+}
